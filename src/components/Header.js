@@ -7,8 +7,7 @@ export default class Header extends Component {
       <div className="header">
         <h1>Employee Directory</h1>
         <p>
-          Click on the name icon to filter by name alphabetically or use the
-          search box to narrow your results.
+          Search an employee via the search box, or click Name to sort alphabetically. 
         </p>
       </div>
     );
