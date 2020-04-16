@@ -8,7 +8,7 @@ By _**Vaughn McPherson**_
 
 
 ## Description
-_This app helps you keep track of all your employees. You may either search the list by entering the employee's name, or click 'Name' and the application will sort your list alphabetically._
+_This app helps you connect with all of your co-workers. You may either search the list by entering the employee's name, or click 'Name' and the application will sort your list alphabetically._
 
 
 ## Setup/Installation Requirements
