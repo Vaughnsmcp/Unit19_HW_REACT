@@ -15,7 +15,7 @@ _This app helps you connect with all of your co-workers. You may either search t
 * _Clone Repo_
 * _NPM Install_
 * _Start Server, npm run start_
-* _go to browser, locathost:3000_
+* _go to browser, localhost:3000_
 
 
 ## Known Bugs
